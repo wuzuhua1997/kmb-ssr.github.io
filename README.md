@@ -1,6 +1,6 @@
 # 免费Clash节点丨科学上网 :link: https://wuzuhua1997.github.io/kmb-ssr.github.io 
-### :page_facing_up: [24](https://wuzuhua1997.github.io/kmb-ssr.github.io/tag.html) 
+### :page_facing_up: [25](https://wuzuhua1997.github.io/kmb-ssr.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 1247786 
-### :alarm_clock: 2024-09-20 19:29:19 
+### :hibiscus: 1293950 
+### :alarm_clock: 2024-09-21 22:14:44 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
